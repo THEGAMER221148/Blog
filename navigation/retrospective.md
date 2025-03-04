@@ -37,39 +37,8 @@ Here is the game:
 </ul>
 Here is a screenshot showing some of the responses:
 <img src="navigation/image.png">
-<h2>Other Projects I Found Cool</h2>
+<h2>Other Projects I Enjoyed</h2>
 <ul>
-    <li>Bathroom Pass</li>
-    <ul>
-        <li>Clever integration of Student ID into bathroom pass and effective way of keeping track of students who go</li>
-        <li>Real-time tracking and time-in/time-out data</li>
-        <li>One piece of feedback: making the information more accessible (moving recent entries to the top of the list) and readable (specifically in/out column).</li>
-    </ul>
-    <li>Aesthetihawk</li>
-    <ul>
-        <li>Improves NIghthawk Pages look significantly</li>
-        <li>Customization and integration into websites is smooth</li>
-    </ul>
+    <li><strong>Bathroom Pass</strong> - This was my favorite other project. I really like the idea of having out-of-class time on record so that there is no ambiguity as to how long a student was gone for. The bathroom pass does need a bit of polishing, especially in readability and accessability.</li>
+    <li><strong>Aesthetihawk</strong> - I also thought this one was cool. I liked the UI improvements.</li>
 </ul>
-<h2>My Strengths, Weaknesses, and Plans for the Future</h2>
-<h3>Strengths</h3>
-<ul>
-    <li>Solid understanding of GitHub and the tools related to that</li>
-    <li>Good understanding of web development technologies such as HTML, CSS, and JavaScript</li>
-    <li>Effective communication, leadership, organization, and teamwork skills, especially in collaborative projects</li>
-</ul>
-<h3>Weaknesses</h3>
-<ul>
-    <li>Limited experience with backend development and databases</li>
-    <li>Less than great knowledge of JS syntax and skills beyond fundamentals</li>
-    <li>Grit and perseverance skills could use a bit of work</li>
-</ul>
-<h3>Future Plans</h3>
-<ul>
-    <li>Expand game level using above feedback (plans shown there, too)</li>
-    <li>Continue learning JS and advanced mechanics in DOM/OOP settings</li>
-    <li>Apply skills I already have to independent projects (GSDSEF)</li>
-    <li>Project I completed with a friend: <a href="https://github.com/Nikhile22427/ISEF">link</a></li>
-</ul>
-<h2>Self-Assessment</h2>
-<p>Reflecting on my performance throughout this course, I believe I have demonstrated a strong understanding of the core concepts and skills taught. My ability to effectively use GitHub, develop interactive web pages, and collaborate with peers has been evident in the projects I have completed. While I recognize there are areas for improvement, particularly in backend development, solidifying my tools knowledge, and advanced JavaScript, I am confident in my progress and commitment to learning. Therefore, I would give myself a final grade of 0.93/1, acknowledging both my achievements and the potential for further growth.</p>
