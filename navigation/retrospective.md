@@ -42,3 +42,4 @@ Here is a screenshot showing some of the responses:
     <li><strong>Bathroom Pass</strong> - This was my favorite other project. I really like the idea of having out-of-class time on record so that there is no ambiguity as to how long a student was gone for. The bathroom pass does need a bit of polishing, especially in readability and accessability.</li>
     <li><strong>Aesthetihawk</strong> - I also thought this one was cool. I liked the UI improvements.</li>
 </ul>
+<p>Due to the fact that I have documented my progress in computer science in this blog and have exceeded requirements when making my RPG game with Evan, I would give myself a 95%.</p>
